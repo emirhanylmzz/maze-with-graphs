@@ -128,6 +128,8 @@ public class Maze {
 		}
 		return c2.data;
 	}
+	//This method taken from someone else.
+	//printMaze fonksiyonu başkasından alınmıştır.
 	public void printMaze(int n, int m) {
 		for(int i = 0; i < n; ++i) {						
 			for(int j = 0; j < m; ++j) {
